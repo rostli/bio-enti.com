@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice?coloronly=true')
 
 body {
     margin: 0;
@@ -29,7 +30,7 @@ body {
 
 .username {
     color: whitesmoke;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Bungee Spice', sans-serif;
 }
 
 .coloring a {
